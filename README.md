@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adarshamrit
-- 👀 I’m interested in Remote ML applications
-- 🌱 I’m currently learning Kotlin and TensorFlow.
+- 👀 I’m interested in web dev, AI and CV.
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on currently Nothing
 - 📫 How to reach me #404 not Found
 
