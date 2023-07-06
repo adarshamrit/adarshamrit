@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adarshamrit
-- 👀 I’m interested in web dev, AI and CV.
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on currently Nothing
-- 📫 How to reach me #404 not Found
+- 👀 I’m interested in Web Development, Linux Kernel, and Artificial Intelligence.
+- 🌱 I’m proficient in C and Bash, with knowledge of Python as well.
+- 💞️ I’m looking to collaborate on currently open source projects.
+- 📫 Reach out to me by pinging me to my email verybasilisk101@protonmail.com.
 
 <!---
 adarshamrit/adarshamrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
