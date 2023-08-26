@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adarshamrit
-- 👀 I’m interested in Web Development, Linux Kernel, and Artificial Intelligence.
+- 👀 I’m interested in Mainframe Systems, Compiler and OS design, Linux Kernel, and Deep Learning and Computer Vision.
 - 🌱 I’m proficient in C and Bash, with knowledge of Python as well.
-- 💞️ I’m looking to collaborate on currently open source projects.
+- 💞️ I’m looking to collaborate on FOSS projects.
 - 📫 Reach out to me by pinging me to my email verybasilisk101@protonmail.com.
 
 <!---
